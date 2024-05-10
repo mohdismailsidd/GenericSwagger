@@ -5,7 +5,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using System.Diagnostics.CodeAnalysis;
 
-namespace ATI.EAPI.Framework.Swagger
+namespace LDN.Framework.GenericSwagger
 {
     /// <summary>
     ///     Provides extension methods for <see cref="IApplicationBuilder"/> to

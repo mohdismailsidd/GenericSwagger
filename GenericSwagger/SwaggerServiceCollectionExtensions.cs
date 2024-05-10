@@ -1,5 +1,4 @@
-﻿using GenericSwagger;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -8,7 +7,7 @@ using Swashbuckle.AspNetCore.SwaggerGen;
 using System.Diagnostics.CodeAnalysis;
 using System.Reflection;
 
-namespace ATI.EAPI.Framework.Swagger
+namespace LDN.Framework.GenericSwagger
 {
     /// <summary>
     ///     Provides extension methods for <see cref="IServiceCollection"/> to

@@ -1,9 +1,6 @@
-﻿using ATI.EAPI.Framework.Swagger;
-using GenericSwagger;
-using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
+﻿using System.Diagnostics.CodeAnalysis;
 
-namespace ATI.EAPI.Framework.Swagger
+namespace LDN.Framework.GenericSwagger
 {
     /// <summary>
     ///     Encapsulates the options for Swagger configuration.

@@ -3,7 +3,7 @@ using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using System.Diagnostics.CodeAnalysis;
 
-namespace ATI.EAPI.Framework.Swagger
+namespace LDN.Framework.GenericSwagger
 {
     /// <summary>
     ///     Implements <see cref="IOperationFilter"/> to apply authorization for Swagger.

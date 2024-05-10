@@ -1,7 +1,7 @@
 ﻿using Microsoft.OpenApi.Models;
 using System.Diagnostics.CodeAnalysis;
 
-namespace GenericSwagger
+namespace LDN.Framework.GenericSwagger
 {
     /// <summary>
     ///     Encapsulates the data describing specific API version.
